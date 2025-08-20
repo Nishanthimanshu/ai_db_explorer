@@ -1,0 +1,11 @@
+langgraph 
+langchain 
+langchain-openai 
+langchain_community 
+python-dotenv 
+networkx 
+matplotlib 
+pydot 
+langchain_google_genai 
+langchain_groq
+gradio
